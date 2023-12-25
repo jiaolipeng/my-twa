@@ -1,0 +1,1 @@
+npx func-js ..\nft\stdlib.fc ..\nft\op-codes.fc ..\nft\params.fc ..\nft\nft-collection.fc --boc nft-collection.cell & npx func-js ..\nft\stdlib.fc ..\nft\op-codes.fc ..\nft\params.fc ..\nft\nft-collection-editable.fc --boc nft-collection-editable.cell & npx func-js ..\nft\stdlib.fc ..\nft\op-codes.fc ..\nft\params.fc ..\nft\nft-item.fc --boc nft-item.cell
